@@ -1,0 +1,10 @@
+asgiref
+dj-rest-auth
+Django
+django-extensions
+django-filter
+django-model-utils
+djangorestframework
+Faker
+pytz
+sqlparse
