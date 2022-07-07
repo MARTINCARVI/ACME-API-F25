@@ -1,4 +1,5 @@
 asgiref
+black
 dj-rest-auth
 Django
 django-extensions
